@@ -15,7 +15,7 @@ function App() {
   {/*Navbar*/}
   <nav className="navbar navbar-expand-lg fixed-top">
     <div className="container-fluid">
-      <a className="navbar-brand" href="#">Home</a>
+      <a className="navbar-brand" href="#">Kardia Headline</a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main_nav">
         <span className="navbar-toggler-icon" />&gt;
       </button>
