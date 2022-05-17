@@ -1,1 +1,1 @@
-# ReactJsWeb
+# React Js Pre-exercises
